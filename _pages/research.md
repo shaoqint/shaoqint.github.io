@@ -19,8 +19,8 @@ Shaoqin Tang, Zhiyi Wang, and Tony Tong. *“Motivating High-Quality Contributio
 - Finalist, Best PhD Paper Prize, Strategic Management Society (2023)
 <br/>
 
-Shihao Zhou, Daitian Li, Tony Tong, and Shaoqin Tang. *“Toward a Multi-Polar Multihoming World of Artificial Intelligence.”*  
-- 2nd revised and resubmit at **Journal of International Business Studies**
+Shihao Zhou, Shaoqin Tang, Daitian Li, and Tony Tong. *“Toward a Multi-Polar Multihoming World of Artificial Intelligence.”*  
+- 3rd revised and resubmit at **Journal of International Business Studies**
 <br/>
 
 Shaoqin Tang, Ethan Poskanzer, and Tony Tong. *“The Influence of Automation on Gender Bias in Knowledge Evaluations.”*  
