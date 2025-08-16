@@ -24,8 +24,8 @@ Shaoqin Tang. *“Configuring Human-Algorithm Capability Bundles: How the Direct
 
 
 ## WORK IN PROGRESS  
-
 Shaoqin Tang. *“How Algorithms Affect OSS Developer Contribution: A Multitask Learning Perspective”*
+
 Shaoqin Tang. *“Does Automation Mitigate Evaluative Bias? An Attention Allocation Perspective”*
 
 
