@@ -9,7 +9,7 @@ author_profile: true
 
 ## REFEREED JOURNAL PAPERS  
 
-Shihao Zhou, Shaoqin Tang, Daitian Li, & Tony Tong. *“Toward a Multi-Polar, Multihoming World of Artificial Intelligence”* **Journal of International Business Studies** (Forthcoming)
+Shihao Zhou, Shaoqin Tang, Daitian Li, & Tony Tong. *“Multihoming: An Internationalization Strategy in a World of AI ecosystems”* **Journal of International Business Studies** (Forthcoming)
 
 Liang Chen, Tony Tong, Shaoqin Tang, & Nianchen Han. 2022. *“Governance and Design of Digital Platforms: A Review and Future Research Directions on a Meta-Organization”* **Journal of Management**, 48(1): 147- 184. (325 Google Scholar citations, as of July 2025)
 ## WORKING PAPERS  
