@@ -11,6 +11,8 @@ redirect_from:
 
 Hello! I’m Shaoqin Tang, a PhD candidate in Strategy at the University of Colorado Boulder. My research focuses on how organizations leverage algorithmic technologies and governance strategies to manage human capital. My dissertation focuses on the context of open source innovation, aiming to understand how firms active on open source platforms orchestrate their internal developers and crowd contributors that are outside formal organizational boundaries. 
 
+I will be joining the Sonoco International Business Department at the University of South Carolina as a Tenure-Track Assistant Professor this August.
+
 ## EDUCATION  
 
 **Leeds School of Business, University of Colorado Boulder, Colorado, US**  
